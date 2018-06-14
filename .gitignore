@@ -1,0 +1,6 @@
+old/
+data_ln
+data/
+.DS_Store
+*.swp
+__pycache__/
